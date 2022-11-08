@@ -4,7 +4,10 @@
 
 ### Hello
 
-
+<ul>
+    <li><a href="/test_directory/test.html">test_directory(html)</a></li>
+    <li><a href="/test_directory/test.md">test_directory(md)</a></li>
+</ul>
 
 ### 마크다운 연습
 <br/>
