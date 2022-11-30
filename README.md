@@ -1,32 +1,21 @@
 # TIL
 
 ## Today I Learned
-
-### Hello
-
-<ul>
-    <li><a href="/test_directory/test.html">test_directory(html)</a></li>
-    <li><a href="/test_directory/test.md">test_directory(md)</a></li>
-</ul>
-
-### 마크다운 연습
-<br/>
-<br/>
 <br/>
 <br/>
 
-```html
- <div>
-    <a href="www.naver.com">마크다운 연습</a>
- </div>
-```
+### Notion 블로그 운영
+
+<a href="https://quiver-primula-23d.notion.site/TIL-Today-I-Learned-bca75cfcd1b14d868eb507d726ca8825">TIL(Today I Learned) 노션 개인 블로그</a>
+
+<img src="./img/blog-TIL.png"></img>
 
 <br/>
 <br/>
 <br/>
+<br/>
 
-
-```javascript
+<!-- ```javascript
     $(".btn_box .prev").on("click",function(){
         if(ww<padSize) return false;//태블릿 사이즈 끄기
 
@@ -40,4 +29,5 @@
         }
 
     });
-```
+``` -->
+
